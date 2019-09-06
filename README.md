@@ -85,3 +85,5 @@ Android ROM定制开发，移植编译，root，Recovery编译，开发工具下
 3. 提交代码
 4. 新建 Pull Request
 
+Gitee地址：https://gitee.com/xxxgod/ROM-Dev
+
