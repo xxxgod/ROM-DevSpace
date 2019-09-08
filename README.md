@@ -62,9 +62,6 @@ Android ROM定制开发，移植编译，root，Recovery编译，开发工具下
 扫码加入星球，零距离交流指导开发<br/>
 ![ROM开发者社区](http://www.zecoki.com/ximages/xq/ewm.jpg "在这里输入图片标题")
 
-
-![ROM开发者社区](http://www.zecoki.com/ximages/xq/ewm.jpg"在这里输入图片标题")
-
 #### 软件架构
 软件架构说明
 
