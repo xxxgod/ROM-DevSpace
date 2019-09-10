@@ -80,10 +80,10 @@ Android ROM定制开发，移植编译，root，Recovery编译，开发工具下
 
 #### 参与贡献
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+1. X神之怒
+2. Jimoy
+3. IronMan.K
+4. 支持论坛：bbs.zecoki.com
 
 Gitee地址：https://gitee.com/xxxgod/ROM-Dev
 
