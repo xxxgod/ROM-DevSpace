@@ -1,10 +1,9 @@
 # ROM 开发入门到精通 2019版
 
 #### 介绍
-Android ROM定制开发，移植编译，root，Recovery编译，开发工具下载
+Android ROM定制开发，移植编译，root，Recovery编译，开发教程&工具下载
 
 ```
-课程总计10章，共30节，课件更新，知识讲解+案例分析/思路指导。
 
 1.认识ROM开发
 1.1ROM的概念  
@@ -63,7 +62,7 @@ Android ROM定制开发，移植编译，root，Recovery编译，开发工具下
 ![ROM开发者社区](http://www.zecoki.com/ximages/xq/ewm.jpg "在这里输入图片标题")
 
 #### 软件架构
-软件架构说明
+课程总计10章，共30节，课件更新，知识讲解+案例分析/思路指导。
 
 
 #### 安装教程
