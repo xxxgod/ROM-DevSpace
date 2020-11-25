@@ -1,4 +1,4 @@
-#⭐资料《ROM开发入门到精通》归档
+⭐资料《ROM开发入门到精通》归档
 
 #### 介绍
 Android ROM定制开发，移植编译，root，Recovery编译，开发教程&工具下载
@@ -8,27 +8,27 @@ Android ROM定制开发，移植编译，root，Recovery编译，开发教程&�
 
        「内容说明」：第一期主要为技术资料，提供一些工具为主 ，偶尔附加一些必要的教程。第二期会针对技术教程，细分知识点，重点剖析、解释，形成一系列的知识文档供大家查阅，目前大纲已列出，任务庞杂需要长期整理还未更新完，请大家保持关注。所有知识点将在知识星球上发布和展现。
 
-[爱心]一、第一期---技术资料工具（大神必备版）：如下地址
+[爱心]一、第一期---技术资料工具（大神必备版）：如下地址<br/>
 
 更新日志：
-1.书籍-Android系统级深入开发——移植与调试
-2.开发工具-Android-Kitchen
-3.boot解包打包修改工具
-4.adb-fastboot最新编译工具
-5.apktool反编译工具
-6.卡刷转线刷工具，dat转img
-7.CM编译参考教程，教你如何快速编译自己的ROM 
-8.Flymeos源码同步更新以及插桩适配教程
-9.Odex合并工具
-10.高通命令进入9008端口方式汇总和机型整理
-11.ROM移植的思路和方法
-12.ADB logcat调试和端口占用解决办法
-13.Android apk反编译方法以及运用
-14.内置&精简APP方法简述
-15.ROM系统结构和分区解析
-
-以上资料地址：
-链接: https://pan.baidu.com/s/18aOJKfwwv4ydnFAtbZH3Vg 提取码: c7vh 
+1.书籍-Android系统级深入开发——移植与调试<br/>
+2.开发工具-Android-Kitchen<br/>
+3.boot解包打包修改工具<br/>
+4.adb-fastboot最新编译工具<br/>
+5.apktool反编译工具<br/>
+6.卡刷转线刷工具，dat转img<br/>
+7.CM编译参考教程，教你如何快速编译自己的ROM <br/>
+8.Flymeos源码同步更新以及插桩适配教程<br/>
+9.Odex合并工具<br/>
+10.高通命令进入9008端口方式汇总和机型整理<br/>
+11.ROM移植的思路和方法<br/>
+12.ADB logcat调试和端口占用解决办法<br/>
+13.Android apk反编译方法以及运用<br/>
+14.内置&精简APP方法简述<br/>
+15.ROM系统结构和分区解析<br/>
+<br/>
+以上资料地址：<br/>
+链接: https://pan.baidu.com/s/18aOJKfwwv4ydnFAtbZH3Vg 提取码: c7vh <br/>
 
 
 [爱心][爱心]二、第二期---技术入门教程（小白基础版）：
@@ -141,18 +141,18 @@ https://t.zsxq.com/VvjEqRV
 8.2高通平台 https://articles.zsxq.com/id_cru5g5pfgubu.html
 9.ROM修改定制方案
 9.1 手机信息获取和修改https://articles.zsxq.com/id_6hiwx3slv7eg.html
-9.2 内置&精简APP方法简述. https://articles.zsxq.com/id_l0f3dq8bz7m5.html
-9.3 桌面排序&准确获取包名类名 https://articles.zsxq.com/id_8rjlks65559o.html
-9.4 解屏幕锁账户锁思路解析 https://articles.zsxq.com/id_su331pr7iz4l.html
-9.5  ODEX合并解析 https://articles.zsxq.com/id_1ipcc5otx6rj.html
-9.6 多国语言定制思路 https://articles.zsxq.com/id_c0n5nou79hhb.html	
-10.拓展内容和相关案例
-10.1安卓源码同步和编译 https://articles.zsxq.com/id_eafrboid5jot.html
-10.2 ROM移植思路和过程 https://articles.zsxq.com/id_tb8r1xzizwk9.html
-10.3卡刷update-script脚本分析 https://articles.zsxq.com/id_w69hnw2r0ip9.html
-10.4 Dmverity原理阐述 
+9.2 内置&精简APP方法简述. https://articles.zsxq.com/id_l0f3dq8bz7m5.html<br/>
+9.3 桌面排序&准确获取包名类名 https://articles.zsxq.com/id_8rjlks65559o.html<br/>
+9.4 解屏幕锁账户锁思路解析 https://articles.zsxq.com/id_su331pr7iz4l.html<br/>
+9.5  ODEX合并解析 https://articles.zsxq.com/id_1ipcc5otx6rj.html<br/>
+9.6 多国语言定制思路 https://articles.zsxq.com/id_c0n5nou79hhb.html	<br/>
+10.拓展内容和相关案例<br/>
+10.1安卓源码同步和编译 https://articles.zsxq.com/id_eafrboid5jot.html<br/>
+10.2 ROM移植思路和过程 https://articles.zsxq.com/id_tb8r1xzizwk9.html<br/>
+10.3卡刷update-script脚本分析 https://articles.zsxq.com/id_w69hnw2r0ip9.html<br/>
+10.4 Dmverity原理阐述 <br/>
  https://articles.zsxq.com/id_dag3kxwww28m.html
-10.5 System分区签名过程 
+10.5 System分区签名过程 <br/>
 https://articles.zsxq.com/id_gw7cw1w37c2p.html 
                                      
 [爱心][爱心]第四期（计划中）：ROM开发高级教程 （小白学成版）
