@@ -288,6 +288,6 @@ https://articles.zsxq.com/id_gw7cw1w37c2p.html
 1. X神之怒
 2. Jimoy
 3. IronMan.K
-4. 天奕团队
+4. Skyone团队
 
 Github地址：https://github.com/xxxgod/ROM-Dev
